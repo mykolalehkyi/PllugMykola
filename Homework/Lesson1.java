@@ -6,7 +6,7 @@ public class Main {
                     a+=i*i;
                     b*=i-1;
                 }
-                c+=a+b;sds
+                c+=a+b;
 
                 System.out.println("Answer is: "+c);
 
